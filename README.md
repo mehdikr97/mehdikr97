@@ -45,7 +45,7 @@
   <img width="12" />
 
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="laravel wordmark logo" /> 
+<img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" height="40" alt="laravel wordmark logo" /> 
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
 <img width="12" />
